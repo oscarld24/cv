@@ -1,0 +1,120 @@
+{
+    "basics": {
+        "name": "Óscar López Deleyja",
+        "label": "Web Developer",
+        "picture": "images/profile_cv.jpg",
+        "email": "os.deleyja@gmail.com",
+        "phone": "5527711784",
+        "website": "http://osdevleyja.com",
+        "summary": "Los últimos 3 años he desarrollado paginas web para clientes con diversos enfoques, he aplicado diferentes tecnologías y la mayoría las he aprendido de forma autodidacta. He estado a cargo de diferentes proyectos teniendo contacto directo con el cliente y atendiendo personalmente las necesidades que presenta.\n Soy amante de las tecnologías aplicadas al desarrollo web y seguridad informática,soy proactivo, trabajo en equipo,motivado a crecer profesionalmente.",
+        "location": {
+            "address": "México",
+            "postalCode": "11320",
+            "city": "México",
+            "countryCode": "CDMX"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "césar-jordán-rosas-ávila-3b388337",
+                "url": "https://www.linkedin.com/in/c%C3%A9sar-jord%C3%A1n-rosas-%C3%A1vila-3b388337/"
+            },
+            {
+                "network": "Github",
+                "username": "oscarld24",
+                "url": "https://github.com/oscarld24"
+            },
+            {
+                "network": "Google Plus",
+                "username": "cj.rosasavila@gmail.com",
+                "url": "https://plus.google.com/106322517087849042665"
+            },
+            {
+                "network": "Twitter",
+                "username": "@cjoroav",
+                "url": "https://twitter.com/cjoroav"
+            },{
+                "network": "Tumblr",
+                "username": "cjordanrosas",
+                "url": "https://cjordanrosas.tumblr.com/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "LBN Full Communication Agency",
+            "position": "Full Stack Developer",
+            "website": "http://www.lovebrand.com.mx",
+            "startDate": "2014-01-13",
+            "endDate": "",
+            "summary": "En LBN diseño, desarrollo, administró y publico a nivel de producción los proyectos Web que requieren los clientes o marcas de lujo. \nImplementando tecnologías como Amazon Web Services",
+            "highlights": []
+        },
+        
+
+  
+        {
+            "company": "PC Games",
+            "position": "Venta y mantenimiento de equipo de computo",
+            "website": "",
+            "startDate": "2009-08-16",
+            "endDate": "2010-08-15",
+            "summary": "Venta y mantenimiento de equipo de computo a nivel de hardware y software",
+            "highlights": []
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Universidad Nacional Autonoma de México",
+            "area": "en Computación",
+            "studyType": "Ingeniería ",
+            "startDate": "2011-08-10",
+            "endDate": "2016-01-15",
+            "gpa": "",
+            "courses": "\nFront End Development con React JS (120 hrs) En Dev.F"
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Android Developer",
+            "level": "Master",
+            "keywords": [
+                "Java",
+                "Javascript",
+                "REST",
+                "Node",
+                "Amazon AWS",
+                "Google App Engine",
+                "HTML",
+                "CSS",
+                "SQLite",
+                "SQL Server 2012",
+                "Git"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "fluency": "Avanzado"
+        },
+        {
+            "language": "Frances",
+            "fluency": "Básico"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Dream",
+            "keywords": []
+        }
+    ],
+    "references": []
+}
